@@ -22,13 +22,13 @@ Outside of math and finance, I’m hosting a podcast "Dekoding Life With Kahan";
 ### 📈 Kahan's GitHub Stats
 
 <!-- Replace this with a real stat widget using GitHub Readme Stats -->
-![Vyomm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mmoyv27&show_icons=true&theme=github_dark)
+![Kahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KahanC&show_icons=true&theme=github_dark)
 
 ---
 
 ## 📫 How to Connect:
 
-If you're working on cool projects, like autonomous systems, educational tools, or just want to chat, feel free to connect with me!
+If you're working on cool projects, like financial automation scripts, educational tools, or just want to chat, feel free to connect with me!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kahan-choksi/)
 - 🧠 [GitHub](https://github.com/KahanC)
