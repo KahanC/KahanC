@@ -19,10 +19,7 @@ Outside of math and finance, I’m hosting a podcast "Dekoding Life With Kahan";
 
 ---
 
-### 📈 Kahan's GitHub Stats
-
-<!-- Replace this with a real stat widget using GitHub Readme Stats -->
-![Kahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KahanC&show_icons=true&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KahanC&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
